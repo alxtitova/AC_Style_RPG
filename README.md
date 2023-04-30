@@ -1,2 +1,2 @@
 # AC_Style_RPG
- A simple openworld RPG game
+ A simple open world RPG
